@@ -1,0 +1,11 @@
+General python skills:
+http://greenteapress.com/thinkpython/html/index.html
+https://runestone.academy/runestone/books/published/pythonds/index.html
+https://projecteuler.net
+
+Visualization packages:
+https://plotly.com/python
+https://www.streamlit.io
+
+Classes and objects:
+https://www.learnpython.org/en/Classes_and_Objects
