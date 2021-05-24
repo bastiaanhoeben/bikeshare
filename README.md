@@ -20,9 +20,12 @@ specity the data analysed for month and day of the week.
 ### Getting started
 To get started, go through the following steps:
 
-1. Clone the repository:
+1. Clone the repository into working directory and move into project 
+   directory:
    
-    `git clone bastiaanhoeben/bikeshare`
+   `git clone https://github.com/bastiaanhoeben/bikeshare`
+   
+   `cd bikeshare`
 2. Create a virtual environment and activate it:
 
     `python -m venv bikeshare`
