@@ -22,22 +22,29 @@ To get started, go through the following steps:
 
 1. Clone the repository into working directory and move into project 
    directory:
+   ```   
+   git clone https://github.com/bastiaanhoeben/bikeshare 
+   ``` 
+   ```
+   cd bikeshare
+   ```
    
-   `git clone https://github.com/bastiaanhoeben/bikeshare`
-   
-   `cd bikeshare`
 2. Create a virtual environment and activate it:
-
-    `python -m venv bikeshare`
-
-    `source bikeshare/bin/activate`
+   ```
+   python -m venv bikeshare
+   ```
+   ```
+   source bikeshare/bin/activate
+   ```
 3. Install the necessary packages from requirements.txt:
-
-    `python -m pip install -r requirements.txt`
+   ```
+   python -m pip install -r requirements.txt
+   ```
 
 4. Run the python script and follow the instructions prompted for:
-
-    `python bikeshare.py`
+   ```
+   python bikeshare.py
+   ```
 
 
 
