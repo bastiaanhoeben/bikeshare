@@ -31,10 +31,10 @@ To get started, go through the following steps:
    
 2. Create a virtual environment and activate it:
    ```
-   python -m venv bikeshare
+   python -m venv .venv 
    ```
    ```
-   source bikeshare/bin/activate
+   source .venv/bin/activate
    ```
 3. Install the necessary packages from requirements.txt:
    ```
